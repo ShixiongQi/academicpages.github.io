@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu (于澜涛)"
+title: "Shixiong Qi (齐世雄)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://shixiongqi.github.io/files/shixiong_cv_v1.1.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->

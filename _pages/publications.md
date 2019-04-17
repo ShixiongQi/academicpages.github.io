@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
+## Conference
 
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
@@ -29,7 +29,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 <b>Lantao Yu\*</b>, Xuejian Wang\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
 <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
-## Multi-Agent Systems & Computational Sustainability
+## Jornal
 
 <b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
 Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.

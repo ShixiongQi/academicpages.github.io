@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Computer Science Department, University of California, Riverside<br>
+Room 459, Winston Chung Hall<br>
+Email: sqi009 [at] ucr.edu
 
