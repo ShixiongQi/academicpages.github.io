@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Shixiong Qi (齐世雄)"
+title: "Shixiong Qi"
 permalink: /cv/
 author_profile: true
 redirect_from:
