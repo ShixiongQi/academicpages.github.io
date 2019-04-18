@@ -17,3 +17,8 @@ I am a 1st-year PhD student in the Computer Science and Engineering Department a
 
 # Recent News
 * Shixiong's Homepage has been posted!
+
+# Contact
+Computer Science Department, University of California, Riverside<br>
+Room 459, Winston Chung Hall<br>
+Email: sqi009 [at] ucr.edu
