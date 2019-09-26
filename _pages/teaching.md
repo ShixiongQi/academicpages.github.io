@@ -1,19 +1,29 @@
 ---
-title: "CS164 Fall 2019"
+title: "CS164: Computer Networks, Fall 2019"
 layout: archive
 author_profile: true
 permalink: /teaching/
 ---
 
-A variety of common markup showing how the theme styles them.
+## Instruction Time: 
+Wednesdays and Fridays, 2:00 pm - 3:20 pm. Room: WCH 143
 
-# CS164: Computer Networks
+## Instructor: 
+K. K. Ramakrishnan,  Room: Winston Chung Hall 332.
 
-## Instruction time: Wednesdays and Fridays, 2:00 pm - 3:20 pm. Room: WCH 143
-## Instructor: K. K. Ramakrishnan,  Room: Winston Chung Hall 332.
-## Office Hours: Wednesdays 4:00 pm - 5:00 pm.
-## Lab: Monday 11:00 am - 1:50 pm, Friday 11:00 pm -1:50 pm;  Winston Chung Hall 132
-## Teaching Assistants: Shixiong Qi and Liang Zhou
+## Instructor Office Hours: 
+Wednesdays 4:00 pm - 5:00 pm.
+
+## Lab: 
+Monday 11:00 am - 1:50 pm, Friday 11:00 pm -1:50 pm;  Winston Chung Hall 132
+
+## Teaching Assistants: 
+Shixiong Qi (sqi009@ucr.edu) and Liang Zhou (lzhou008@ucr.edu)
+
+## TA Office Hours:
+For Shixiong: TBD
+For Liang: TBD
+
 
 ### Header three
 
@@ -54,17 +64,7 @@ Single line blockquote:
 | 19    | 4-Dec  | Wireless Networks               | Chapter 6  | Wireless LAN Architecture and MAC (based on previous editions,I may not be able to cover Chapter 6)
 | 20    | 6-Dec  | Cellular Networks and Mobility  | Chapter 6  | Cellular Networks and Mobility Management (based on previous editions,I may not be able to cover Chapter 6)
 | 21    | 10-Dec | Final Exam                      | Final Exam | Final Exam (11:30 am - 2:30 pm)
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
 ## Definition Lists
 
