@@ -5,7 +5,7 @@ author_profile: true
 permalink: /teaching/
 ---
 
-* Instruction Time: 
+* *Instruction Time:* 
 :   Wednesdays and Fridays, 2:00 pm - 3:20 pm. Room: WCH 143
 * Instructor: 
 :   K. K. Ramakrishnan,  Room: Winston Chung Hall 332.
@@ -44,57 +44,3 @@ permalink: /teaching/
 | 19    | 4-Dec  | Wireless Networks               | Chapter 6  | Wireless LAN Architecture and MAC (based on previous editions,I may not be able to cover Chapter 6)
 | 20    | 6-Dec  | Cellular Networks and Mobility  | Chapter 6  | Cellular Networks and Mobility Management (based on previous editions,I may not be able to cover Chapter 6)
 | 21    | 10-Dec | Final Exam                      | Final Exam | Final Exam (11:30 am - 2:30 pm)
-
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
