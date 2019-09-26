@@ -5,22 +5,17 @@ author_profile: true
 permalink: /teaching/
 ---
 
-## Instruction Time: 
+#### Instruction Time: 
 Wednesdays and Fridays, 2:00 pm - 3:20 pm. Room: WCH 143
-
-## Instructor: 
+#### Instructor: 
 K. K. Ramakrishnan,  Room: Winston Chung Hall 332.
-
-## Instructor Office Hours: 
+#### Instructor Office Hours: 
 Wednesdays 4:00 pm - 5:00 pm.
-
-## Lab: 
+#### Lab: 
 Monday 11:00 am - 1:50 pm, Friday 11:00 pm -1:50 pm;  Winston Chung Hall 132
-
-## Teaching Assistants: 
+#### Teaching Assistants: 
 Shixiong Qi (sqi009@ucr.edu) and Liang Zhou (lzhou008@ucr.edu)
-
-## TA Office Hours:
+#### TA Office Hours:
 For Shixiong: TBD
 For Liang: TBD
 
