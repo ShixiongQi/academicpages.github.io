@@ -1,6 +1,7 @@
 ---
 title: "CS164 Fall 2019"
 layout: archive
+author_profile: true
 permalink: /teaching/
 ---
 
